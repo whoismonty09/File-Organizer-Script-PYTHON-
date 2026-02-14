@@ -43,3 +43,8 @@ python file_organizer.py
 - Add GUI interface
 - Add custom folder categories
 - Undo feature
+
+---
+
+## 👨‍💻 Author
+Developed by *Your Name
